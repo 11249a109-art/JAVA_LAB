@@ -1,2 +1,1 @@
 # JAVA_LAB
-JAVA_LAB
